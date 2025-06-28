@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "4562ffc320529f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1642dafd5546c563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559fcfd4a5edbd63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "The-Documents/가방줄/BLUEPRINT.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "BLUEPRINT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6743106718214193",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "daa26ce73c706c81",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "be07980eb71bb7ef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "4e659eed6e7bd6b6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      },
+      {
+        "id": "9a6c4ecd0d541fbe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "13fd1c50bb0397af",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "eabdfd8bd9e2b8b5",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화돼있지 않음"
+        }
+      },
+      {
+        "id": "90b52cc0cf8066f5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "1ba795bf97e8bc61",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "941f0aaba02d3448",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "ff470f7f17e05d64",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      },
+      {
+        "id": "7461df519626a5a2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The-Documents/가방줄/BLUEPRINT.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "1c8bbb9fda4eb9cd",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "switcher:빠른 전환기 열기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "559fcfd4a5edbd63",
+  "lastOpenFiles": [
+    "The-Documents/가방줄/BLUEPRINT.md",
+    "Excalidraw/Drawing 2025-06-28 02.45.48.excalidraw.md",
+    "Excalidraw",
+    "The-Documents/가방줄/blueprint.canvas",
+    "Excalidraw/Drawing 2025-06-28 02.44.18.excalidraw.md",
+    "/The-Documents/가방줄/blueprint.canvas",
+    "/The-Documents/가방줄",
+    "The-Documents/가방줄",
+    "/The-Documents",
+    "Excalidraw/Drawing 2025-06-28 02.38.55.excalidraw.md",
+    "The-Documents",
+    "README.md",
+    "무제",
+    "Excalidraw/Drawing 2025-06-28 02.24.18.excalidraw.md",
+    "Font/Font.md",
+    "Excalidraw/Drawing 2023-10-25 16.51.31.excalidraw.md",
+    "Context/spacesLastSync 2.log",
+    "2. Areas/2. Areas.md",
+    "3. Resouces/3. Resouces.md",
+    "hello W0rld (PARA).md",
+    "3. Resouces/‘You’ve got to find what you love,’ Jobs says.md",
+    "Font/NanumPenScript-Regular.ttf",
+    "5. Attachments/Pasted Image 20231025170801_631.png",
+    "5. Attachments/Pasted Image 20231025173611_004.png",
+    "3. Resouces/무제 (Untitled-1003).md",
+    "1. Projects/1. Projects.md",
+    "5. Attachments/Pasted Image 20231025165853_450.png",
+    "Excalidraw/Excalidraw.md",
+    "Context/spacesLastSync.log",
+    "4. Archive/4. Archive.md",
+    "5. Attachments",
+    "IMG_0293.png",
+    "무제 파일.md",
+    "IMG_0293 1.png",
+    "PARA.md"
+  ]
+}
